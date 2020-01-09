@@ -1,6 +1,5 @@
-version: 0.1
-
- phases:
+version: 0.2
+phases:
    build:
      commands:
        - echo Nothing to do yet
