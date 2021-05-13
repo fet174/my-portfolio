@@ -9,7 +9,8 @@ Not Collecting data from 4xx Errors, 5xx Errors and Disc Utilization.
 ![Var](https://user-images.githubusercontent.com/59581555/118171200-170eb300-b3f9-11eb-9730-54459d6f6e2d.png)
 
 
-2. Check what part of path is missing.![Path](https://user-images.githubusercontent.com/59581555/118171233-1fff8480-b3f9-11eb-84f2-11ab1bff6dbd.png)
+2. Check what part of path is missing.
+![Path](https://user-images.githubusercontent.com/59581555/118171233-1fff8480-b3f9-11eb-84f2-11ab1bff6dbd.png)
 
 
 3.1 Go to Edit.
